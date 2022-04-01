@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vivek Chaudhari (@vcha0018)
 - 👀 I’m interested in Software development, Big data processing, and database designing.
-- 🌱 I’m currently learning Django, .NET Core, and React.
+- 🌱 I’m currently learning Angular (Advance), .NET Core (v5).
 - 💞️ I’m looking to collaborate on active projects that are based on Python or Java or Mobile App.
 - 📫 How to reach me -> vivek.19142@gmail.com
 
